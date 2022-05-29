@@ -1,10 +1,9 @@
-### Hey! I'm Bence Szabó and I'm an Android Developer from Hungary. 
-### If you want to contact me: t.me/SzaBence
+### Hey! I'm Bence Szabó a 13 year old Android Developer from Hungary. 
 
 [![My Github stats:](https://github-readme-stats.vercel.app/api?username=ImSzaBence)](https://github.com/ImSzaBence)
 
 ## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ImSzaBence/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=imszabence&theme=onedark)](https://github.com/ImSzaBence/github-profile-trophy)
 
 ### Social:
 
