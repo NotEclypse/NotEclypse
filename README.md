@@ -2,7 +2,9 @@
 ### If you want to contact me: t.me/SzaBence
 
 [![My Github stats:](https://github-readme-stats.vercel.app/api?username=ImSzaBence)](https://github.com/ImSzaBence)
-[![Most used code languages:]https://github-readme-stats.vercel.app/api?username=imszabence&show_icons=true&theme=tokyonight&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&count_private=true&text_color=a3a3a3)](https://github.com/ImSzaBence)
+
+## Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ImSzaBence/github-profile-trophy)
 
 ### Social:
 
