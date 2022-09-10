@@ -1,4 +1,4 @@
-### Hey! I'm Bence Szabó a 13 year old Developer from Hungary. 
+### Hey! I'm Bence Szabó Kernel and Android Developer from Hungary. 
 
 [![My Github stats:](https://github-readme-stats.vercel.app/api?username=NotEclypse)](https://t.me/NotEclypse)
 
