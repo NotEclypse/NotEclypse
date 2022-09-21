@@ -1,4 +1,4 @@
-### Hey! I'm Bence Szabó an iOS Jailbreak and Linux kernel developer. 
+### Hey! I'm Bence Szabó an Android and Linux kernel developer. 
 
 [![My Github stats:](https://github-readme-stats.vercel.app/api?username=NotEclypse)](https://t.me/NotEclypse)
 
