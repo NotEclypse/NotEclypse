@@ -4,8 +4,11 @@
 
 ### Current working devices
  iPhone 14 Pro (main device)
+ 
  iPhone 6S (side device)
+ 
  Macbook Pro 2014 i5 (Laptop)
+ 
  PC (Ryzen 7 3700x, 16 GB DDR4 Corsair Dominator (1 x 16 gig the other stick died rip), Asus ROG Strix GTX 1080 TI 11GB, 512GB M2 Samsung SSD, 1TB Samsung 860 Pro SSD, 256GB Samsung 850 Evo SSD, Coolermaster Masterbox NR400 Case)
 
 ### Current Enviroments
