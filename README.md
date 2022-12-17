@@ -10,6 +10,8 @@
  Macbook Pro 2014 i5 (Laptop)
  
  PC (Ryzen 7 3700x, 16 GB DDR4 Corsair Dominator (1 x 16 gig the other stick died rip), Asus ROG Strix GTX 1080 TI 11GB, 512GB M2 Samsung SSD, 1TB Samsung 860 Pro SSD, 256GB Samsung 850 Evo SSD, Coolermaster Masterbox NR400 Case)
+ 
+ Poco F2 Pro (My one and only android device, codename: lmi)
 
 ### Current Enviroments
 [![Android 12](https://img.shields.io/badge/Android%2012-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-12/)
